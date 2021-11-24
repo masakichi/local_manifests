@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project name="masakichi/android_device_sony_xz2c" path="device/sony/xz2c" remote="github" revision="lineage-18.1" />
+    <project name="LineageOS/android_device_sony_tama-common" path="device/sony/tama-common" remote="github" revision="lineage-18.1" />
+    <project name="LineageOS/android_kernel_sony_sdm845" path="kernel/sony/sdm845" remote="github" revision="lineage-18.1" />
+    <project name="masakichi/proprietary_vendor_sony" path="vendor/sony" remote="github" revision="lineage-18.1" />
+</manifest>
